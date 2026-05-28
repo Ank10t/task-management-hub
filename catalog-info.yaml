@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 
 metadata:
-  name: staffing-platform
-  description: Staffing management platform
+  name: task-management-hub-platform
+  description: Task management hub platform
 
 spec:
   owner: guests

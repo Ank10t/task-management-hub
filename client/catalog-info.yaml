@@ -3,6 +3,8 @@ kind: Component
 
 metadata:
   name: staffing-frontend
+  annotations:
+    github.com/project-slug: ank10t/task-management-hub
   description: React frontend application
   tags:
     - react

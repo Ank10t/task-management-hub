@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: staffing-backend
+  description: Node.js backend API
+  tags:
+    - nodejs
+    - backend
+
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
+  system: staffing-platform

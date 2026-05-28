@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: staffing-frontend
+  description: React frontend application
+  tags:
+    - react
+    - frontend
+
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guests
+  system: staffing-platform

@@ -1,13 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: System
+
 metadata:
-  name: staffing-app
+  name: staffing-platform
   description: Staffing management platform
-  tags:
-    - react
-    - nodejs
 
 spec:
-  type: service
-  lifecycle: experimental
   owner: guests

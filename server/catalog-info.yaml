@@ -11,5 +11,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: guests
+  owner: engineering-team
   system: task-management-hub-platform
+  providesApis:
+    - task-management-api
